@@ -22,7 +22,7 @@ This is a simple Android application developed in Kotlin using Android Studio. I
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Sphynx6/Tip_Calculator.git
+   git clone https://github.com/Ahmed-Ayari/Tip_Calculator.git
    ```
 
 2. Open the project in Android Studio.
